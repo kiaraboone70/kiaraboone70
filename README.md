@@ -29,7 +29,7 @@ Each project is designed to reflect my analytical skills, attention to detail, a
 ---
 
 ### 💡 My Mission  
-To bridge the gap between **data and action** — helping organizations and communities use analytics to improve health outcomes and create change that lasts.  
+To bridge the gap between **data and action**. I aim to help organizations and communities use analytics to improve health outcomes and create change that lasts.  
 
 ---
 
