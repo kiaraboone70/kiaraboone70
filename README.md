@@ -41,7 +41,7 @@ Each project reflects my commitment to using data as a tool for social impact an
 
 ### 📬 Let’s Connect  
 📍 Based in **Atlanta, GA**  
-💼 **www.linkedin.com/in/kiaraboone27** 
+💼 **www.linkedin.com/in/kiaraboone27**  
 📧 **kiaraboone70@gmail.com**
 
 ---
