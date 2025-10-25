@@ -9,9 +9,9 @@ My work focuses on transforming real-world data into actionable solutions that d
 ---
 
 ### 💖 About Me
-I LOVE to learn new things and I have a heart for public health and data.  
+I **LOVE** to learn new things and I have a heart for public health and data.  
 Whether I’m analyzing maternal health trends or creating dashboards, my goal is always the same : to turn complex data into clear stories that spark change.  
-Outside of work, I’m a mom, a fitness enthusiast, and a firm believer in balance, faith, and purposeful living. Every day is a new opportunity to make things better!
+Outside of work, I’m a mom, a fitness enthusiast, and a firm believer in balance, faith, and purposeful living. **Every day is a new opportunity to make things better!**
 
 ---
 
