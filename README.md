@@ -34,8 +34,8 @@ To bridge the gap between **data and action** — helping organizations and comm
 ---
 
 ### 📫 Let’s Connect  
-📍 Based in Atlanta, GA  
-🔗 [LinkedIn](https://www.linkedin.com/in/kiara-boone-mph/)  
+📍 Based in **Atlanta, GA**  
+🔗 **www.linkedin.com/in/kiaraboone27**  
 📧 **kiaraboone70@gmail.com**  
 
 ---
