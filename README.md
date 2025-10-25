@@ -8,6 +8,13 @@ My work focuses on transforming real-world data into actionable solutions that d
 
 ---
 
+### 💖 About Me
+I’m a lifelong learner with a heart for public health and data.  
+Whether I’m analyzing maternal health trends or creating dashboards, my goal is always the same — to turn complex data into clear stories that spark change.  
+Outside of work, I’m a mom, a fitness enthusiast, and a firm believer in balance, faith, and purpose-driven living.
+
+---
+
 ### 🧬 What I Do  
 I combine my technical skills in **R, SAS, SPSS, SQL, Tableau, and Power BI** with a public health mindset to clean, analyze, and visualize data in ways that tell stories that can change lives for the better.  
 I’m big on making data *accessible, impactful, and human-centered* — because behind every number, there’s a life and a story that deserves to be seen.  
