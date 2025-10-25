@@ -1,16 +1,43 @@
-## Hi there 👋
+# 💫 Hi, I’m Kiara Boone, MPH  
+### Public Health Data Analyst | Epidemiology Researcher | Advocate for Health Equity  
 
-<!--
-**kiaraboone70/kiaraboone70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub 💜  
 
-Here are some ideas to get you started:
+I’m a passionate Public Health Data Analyst with a strong foundation in **epidemiology, research, and data visualization**.  
+My work focuses on transforming real-world data into actionable insights that drive community impact — especially in areas like **maternal & child health**, **infectious disease surveillance**, and **health equity**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧬 What I Do  
+I combine my technical skills in **R, SAS, SPSS, SQL, Tableau, and Power BI** with a public health mindset to clean, analyze, and visualize data in ways that tell meaningful stories.  
+I’m big on making data *accessible, impactful, and human-centered* — because behind every number, there’s a life and a story that deserves to be seen.  
+
+---
+
+### 📊 Featured Project  
+🌟 **[Public Health Data Portfolio](https://github.com/kiaraboone70/Public-Health-Data-Portfolio)**  
+Explore my growing portfolio of public health data projects — from analyzing STI trends to exploring social determinants of health among minority women.  
+Each project is designed to reflect my analytical skills, attention to detail, and my commitment to real-world problem-solving.  
+
+---
+
+### 🌱 Currently Growing In  
+- Building interactive dashboards in **Power BI & Tableau**  
+- Advanced **SQL querying and automation**  
+- Developing more public health visual projects for my data portfolio  
+
+---
+
+### 💡 My Mission  
+To bridge the gap between **data and action** — helping organizations and communities use analytics to improve health outcomes and create change that lasts.  
+
+---
+
+### 📫 Let’s Connect  
+📍 Based in Atlanta, GA  
+🔗 [LinkedIn](https://www.linkedin.com/in/kiara-boone-mph/)  
+📧 **kiaraboone70@gmail.com**  
+
+---
+
+⭐ *“Data tells the story, but it’s our job to make sure people hear it.”*  
